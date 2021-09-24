@@ -1,4 +1,3 @@
-package projet4;
 
 import java.util.Scanner;
 
